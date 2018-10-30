@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/scala-intellij-test.iml" filepath="$PROJECT_DIR$/.idea/scala-intellij-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/scala-test/.idea/modules/scala-plugin-test.iml" filepath="$PROJECT_DIR$/scala-test/.idea/modules/scala-plugin-test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/scala-test/.idea/modules/scala-test-build.iml" filepath="$PROJECT_DIR$/scala-test/.idea/modules/scala-test-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scala-test/.idea/modules/scala-plugin-test-build.iml" filepath="$PROJECT_DIR$/scala-test/.idea/modules/scala-plugin-test-build.iml" />
     </modules>
   </component>
 </project>
