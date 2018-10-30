@@ -1,4 +1,4 @@
-name := "scala-test"
+name := "scala-plugin-test"
 
 version := "0.1"
 
